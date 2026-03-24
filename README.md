@@ -7,3 +7,6 @@
 <img src="readme/hero_screen.png" />
 <h3>Footer:</h3>
 <img src="readme/footer_screen.png" />
+<h2>Dashboard:</h2>
+<h3>User's panel:</h3>
+<img src="readme/profile_screen.png" />
