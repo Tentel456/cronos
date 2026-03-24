@@ -9,6 +9,8 @@
 <img src="readme/about_screen.png" />
 <h3>Philosophy:</h3>
 <img src="readme/connecting_screen.png" />
+<h3>What we Do:</h3>
+<img src="readme/what_we_do_screen.png" />
 <h3>Footer:</h3>
 <img src="readme/footer_screen.png" />
 <h2>Dashboard:</h2>
